@@ -39,7 +39,7 @@ interfaces, runtime observability, and operationally clear systems.
 
 ## Background
 
-My background in distributed systems shapes how I build AI-focused software
+My background in distributed systems engineeringshapes how I build AI-focused software
 today. I approach runtimes, agent orchestration, protocol integrations, and
 control planes as distributed systems problems: explicit interfaces, observable
 state transitions, fault tolerance, coordination boundaries, and infrastructure
