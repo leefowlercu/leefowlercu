@@ -34,12 +34,14 @@ interfaces, runtime observability, and operationally clear systems.
 - [`go-symphony`](https://github.com/leefowlercu/go-symphony) - a Go
   orchestration service for running coding-agent sessions against issue queues
   in isolated workspaces.
+- [`nomad-mcp-pack`](https://github.com/leefowlercu/nomad-mcp-pack) - a Go-based 
+  orchestration system for translating MCP Server definitions into HashiCorp Nomad Packs.
 - [`agent-skills`](https://github.com/leefowlercu/agent-skills) - agent skills
   and plugin work that supports AI-assisted developer workflows.
 
 ## Background
 
-My background in distributed systems engineeringshapes how I build AI-focused software
+My background in distributed systems engineering shapes how I build AI-focused software
 today. I approach runtimes, agent orchestration, protocol integrations, and
 control planes as distributed systems problems: explicit interfaces, observable
 state transitions, fault tolerance, coordination boundaries, and infrastructure
