@@ -29,12 +29,4 @@ interfaces, runtime observability, and operationally clear systems.
   SDK for the IBM ContextForge MCP Gateway, covering tools, resources, prompts,
   gateways, and agent management.
 
-## Background
-
-My background in distributed systems engineering shapes how I build AI-focused software
-today. I approach runtimes, agent orchestration, protocol integrations, and
-control planes as distributed systems problems: explicit interfaces, observable
-state transitions, fault tolerance, coordination boundaries, and infrastructure
-that remains understandable under real operational pressure.
-
 - [More about me](https://voxmachina.io/me)
