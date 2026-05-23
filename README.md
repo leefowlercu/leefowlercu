@@ -25,19 +25,9 @@ interfaces, runtime observability, and operationally clear systems.
 - [`sigil-web`](https://github.com/leefowlercu/sigil-web) - a TypeScript web UI
   for the `sigil` app-server with live run inspection, step-level views, and
   operator workflows.
-- [`project-sigil`](https://github.com/leefowlercu/project-sigil) - the
-  superproject coordinating the `sigil` ecosystem, specifications, and
-  multi-repo delivery flow.
 - [`go-contextforge`](https://github.com/leefowlercu/go-contextforge) - a Go
   SDK for the IBM ContextForge MCP Gateway, covering tools, resources, prompts,
   gateways, and agent management.
-- [`go-symphony`](https://github.com/leefowlercu/go-symphony) - a Go
-  orchestration service for running coding-agent sessions against issue queues
-  in isolated workspaces.
-- [`nomad-mcp-pack`](https://github.com/leefowlercu/nomad-mcp-pack) - a Go-based 
-  orchestration system for translating MCP Server definitions into HashiCorp Nomad Packs.
-- [`agent-skills`](https://github.com/leefowlercu/agent-skills) - agent skills
-  and plugin work that supports AI-assisted developer workflows.
 
 ## Background
 
